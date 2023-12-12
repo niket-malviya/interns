@@ -8,3 +8,5 @@ $(document).ready(function(){
   	$('#login').removeClass("reg");
   });
 });
+let x =10 ;
+console.log(x);
