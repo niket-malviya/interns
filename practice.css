@@ -18,3 +18,8 @@ body
 ::-webkit-scrollbar { 
     display: none; 
 }
+
+.class{
+	width : 100vh,
+	height : 100vh,
+}
